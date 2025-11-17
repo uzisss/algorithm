@@ -1,0 +1,16 @@
+C:\Users\konyang\Desktop\Algorithm2023-main\001_Euclid\bin\Debug\001_Euclid.exe.config
+C:\Users\konyang\Desktop\Algorithm2023-main\001_Euclid\bin\Debug\001_Euclid.exe
+C:\Users\konyang\Desktop\Algorithm2023-main\001_Euclid\bin\Debug\001_Euclid.pdb
+C:\Users\konyang\Desktop\Algorithm2023-main\001_Euclid\obj\Debug\001_Euclid.csproj.AssemblyReference.cache
+C:\Users\konyang\Desktop\Algorithm2023-main\001_Euclid\obj\Debug\001_Euclid.csproj.SuggestedBindingRedirects.cache
+C:\Users\konyang\Desktop\Algorithm2023-main\001_Euclid\obj\Debug\MainWindow.g.cs
+C:\Users\konyang\Desktop\Algorithm2023-main\001_Euclid\obj\Debug\App.g.cs
+C:\Users\konyang\Desktop\Algorithm2023-main\001_Euclid\obj\Debug\001_Euclid_MarkupCompile.cache
+C:\Users\konyang\Desktop\Algorithm2023-main\001_Euclid\obj\Debug\001_Euclid_MarkupCompile.lref
+C:\Users\konyang\Desktop\Algorithm2023-main\001_Euclid\obj\Debug\MainWindow.baml
+C:\Users\konyang\Desktop\Algorithm2023-main\001_Euclid\obj\Debug\001_Euclid.g.resources
+C:\Users\konyang\Desktop\Algorithm2023-main\001_Euclid\obj\Debug\_001_Euclid.Properties.Resources.resources
+C:\Users\konyang\Desktop\Algorithm2023-main\001_Euclid\obj\Debug\001_Euclid.csproj.GenerateResource.cache
+C:\Users\konyang\Desktop\Algorithm2023-main\001_Euclid\obj\Debug\001_Euclid.csproj.CoreCompileInputs.cache
+C:\Users\konyang\Desktop\Algorithm2023-main\001_Euclid\obj\Debug\001_Euclid.exe
+C:\Users\konyang\Desktop\Algorithm2023-main\001_Euclid\obj\Debug\001_Euclid.pdb
